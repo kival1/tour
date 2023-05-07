@@ -57,8 +57,8 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "favicon": false,
-    "mbrsiteDomain": "hws2cmrrhi",
+    "favicon": "@PROJECT_PATH@/assets/images/-2023-05-06-at-10.52.45-pm-128x90_2.png",
+    "mbrsiteDomain": "qwfgcslywi",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
